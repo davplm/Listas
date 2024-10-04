@@ -40,7 +40,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-shift="0"  group-title="MUSICA",FIRST MUSIC CHANNEL
 http://rtmp.one.by:1200
-#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",VIDEOROLA
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 7
 http://radio.7chan.org:8000/CH7
