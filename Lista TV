@@ -144,3 +144,15 @@ https://channel07-onlymex.akamaized.net/hls/live/2036971/event01/index.m3u8
 https://channel02-onlymex.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",CNN
 http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
