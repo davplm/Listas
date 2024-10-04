@@ -5,9 +5,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1540572380.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="CINE",IU TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="CINE",VALLEVISION
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w509907010.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="CINE",VALLEVISION
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",VALLEVISION
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w2143131955.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",Peque Radio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -157,3 +157,25 @@ http://181.78.105.146:2000/play/a01s/index.m3u8
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="CINE",SONY MOVIES
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CANAL VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CANELA CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CANELA CLASICOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",CARACOLA (CHILE)
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CB Coto Brus (Costa Rica)
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CINERAMA (BOLIVIA)
+https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CLOVER CHANNEL (MEXICO)
+http://160.20.165.246:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",IU IMAGEN UNIVERSAL
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",My Time Movie Network (España)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",My Time Movie Network (Mexico)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
