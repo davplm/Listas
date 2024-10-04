@@ -17,8 +17,6 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TELEVISION DEL ESTE
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="CINE",INFINITA TV PREMIUM
-https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE DRAMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",C I N E
