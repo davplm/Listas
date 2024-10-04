@@ -153,3 +153,5 @@ http://181.78.105.146:2000/play/a04x/index.m3u8
 http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="CINE",Paramount
 http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",RTQ
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
