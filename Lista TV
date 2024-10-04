@@ -2,72 +2,48 @@
 #EXTINF:0,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", CENTRAL TV
 #EXTGRP:unsorted
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:0,ORBIT TV CANAL 10
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",ORBIT TV CANAL 10
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1540572380.m3u8
-#EXTINF:0,Wow tv
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",Wow tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:0,IU TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",IU TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
-#EXTINF:0,VALLEVISION
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w509907010.m3u8
-#EXTINF:0,VALLEVISION
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",VALLEVISION
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w2143131955.m3u8
-#EXTINF:0,Peque Radio TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",Peque Radio TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:0,TELERED
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TELERED
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-#EXTINF:0,TELESISTEMA
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:0,TELEVISION DEL ESTE
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TELEVISION DEL ESTE
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
-#EXTINF:0,INFINITA TV PREMIUM
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",INFINITA TV PREMIUM
 https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8
-#EXTINF:0,CINE DRAMA
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE DRAMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
-#EXTINF:0,C I N E
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",C I N E
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
-#EXTINF:0,CINE ESTELAR
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE ESTELAR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=1b834bba-9cbe-41b1-b6a2-a1379224ef40&userId=&serverSideAds=true
-#EXTINF:0,CINE TERROR
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE TERROR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
-#EXTINF:0,CINE FAMILIAR
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE FAMILIAR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=9fd7ba41-dc57-42c1-91a9-47d01b017da0&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=5.2.2-a5cfd2176&clientTime=&deviceDNT=0&deviceId=ccb824c4-d871-4c4d-9d73-49d24e5029c6_72c153574c4016d7&deviceLat=20.5886&deviceLon=-100.4306&deviceMake=TCL&deviceModel=6055K&deviceType=android%2CTCL%2Cmobile&deviceVersion=6.0.1_23&includeExtendedEvents=true&marketingRegion=VE&sid=a1905b03-0a40-4213-bbd9-e57435b2af3a&userId=&profileLimit=&paln=AQzzBGQEWP9fSi171FQnq3F4Str7aKQl23WvbRxBduLYKx7f5iqHhiPq2M07m35iccYrTmb_mgvc-lVtopfLk8329Dd9fYpa3E3rtKtQ5j1UQTifhuIO8v2Q2nXpjFVEjk2vVG7kXpT1q7YyU8EjUydLlW64Nko8y9fDJWDMuo4vcwjif6g8MsN8xCe4CAHy23FT26kLAxY-10stbGofqMzVSZEibQgxLaNWi38-9EaFr1eAh0ozhkWc7pyJVS82LuFPNyqEPEaOTw4oSy_ZMQe4MjJdFa4ZVuQcCpSeMOX9QjZq2UZzvwv6sGGIpBPHExm5bYclVNCHP_eOSuG8kNTf1KKuCwSlRQvJ7GhukthRrE22QsBVc-HE9CU5DubULJ7ZTVgp68649lj4EagKMa941oeuXPV8JOh_Ta9C2m1xa9FZLKmZwQwRASlLgLLHZul4WPXRr2EPkHwr81qZOYIl9FjI46UnOUsVlJtgcpe48emTl3o_iciv365s1wV_hKtJ5S0a39uAA_eTfGNM6ObHiHn_8GJw-fEx69kkCRTBTlFZCNE0YBmtJCyrOy09tPaPwg0iULV2cTh2QuZyj9-P70qrdCY03zETHqbw18yAjAkQKsS42k-w3NC4WeP5ZfR6lCrSA3FuhT6MSe-zNxRxwRj01wjXw8Oxui-8HmPxNOTT42op4bN2yy37BnquEa42RIkUdvpAuiAkW5AF8q4CAFLlDPvB5BPNv401foat-jpcs8RetIDLIWCCil-ZR_aumTDStiEFy1DXp2yNGM479ykrHR20SWxWSU-deeRLpLUDydAZ43k9buA6dUHtv6qjvBGRudefzCNoUtKcIKDXVbyO4U0XsFK9FFeQove9GWyccaqE7z9dDaMDLbBrLuFFJr4yuzguue1wuSD6QYoU_jtNMK-oLJ8VQeTSyGWauII858DiVQnT06MFKvHcaawWt2am23xb
-#EXTINF:0,CINE ACCIÓN
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE ACCIÓN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
-#EXTINF:0,NICK CLASICO
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",NICK CLASICO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
-#EXTINF:0,GUIA CANALES PLUTO TV
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",GUIA CANALES PLUTO TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
-#EXTINF:0,FIRST MUSIC CHANNEL
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",FIRST MUSIC CHANNEL
 http://rtmp.one.by:1200
-#EXTINF:0,VIDEOROLA
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:0,CANAL 7
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 7
 http://radio.7chan.org:8000/CH7
-#EXTINF:0,TV VCONLINE.CL
-#EXTGRP:unsorted
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8 
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO -1 HORA
@@ -98,73 +74,73 @@ http://181.78.105.146:2000/play/a044/index.m3u8
 http://181.78.105.146:2000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 22
 http://181.78.105.146:2000/play/a00j/index.m3u8
-#EXTINF:-1,TELEMUNDO
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1,CENTRAL COMEDIA
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",CENTRAL COMEDIA
 http://181.78.105.146:2000/play/a04a/index.m3u8
-#EXTINF:-1,ONCE NIÑOS
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",ONCE NIÑOS
 http://181.78.105.146:2000/play/a04f/index.m3u8
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",DISCOVERY KIDS
 http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1,NICKELODEON
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",NICKELODEON
 http://181.78.105.146:2000/play/a014/index.m3u8
-#EXTINF:-1,DISNEY JR
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",DISNEY JR
 http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",CARTOON NETWORK
 http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
-#EXTINF:-1,UNIVERSAL
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",UNIVERSAL
 http://181.78.105.146:2000/play/a03d/index.m3u8
-#EXTINF:-1,CINECANAL
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CINECANAL
 http://181.78.105.146:2000/play/a04q/index.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",STUDIO UNIVERSAL
 http://181.78.105.146:2000/play/a04o/index.m3u8
-#EXTINF:-1,SONY MOVIES
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",SONY MOVIES
 http://181.78.105.146:2000/play/a002/index.m3u8
-#EXTINF:-1,NAT GEO
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",NAT GEO
 http://181.78.105.146:2000/play/a01l/index.m3u8
-#EXTINF:-1,HISTORY
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",HISTORY
 http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1,DISCOVERY
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",DISCOVERY
 http://181.78.105.146:2000/play/a03x/index.m3u8
-#EXTINF:-1,A&E
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",A&E
 http://181.78.105.146:2000/play/a03f/index.m3u8
-#EXTINF:-1,FILM & ARTS
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",FILM & ARTS
 http://181.78.105.146:2000/play/a08i/index.m3u8
-#EXTINF:-1,h&h
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",h&h
 http://181.78.105.146:2000/play/a03g/index.m3u8
-#EXTINF:-1,E
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",E
 http://181.78.105.146:2000/play/a03i/index.m3u8
-#EXTINF:-1,HOLA TV
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",HOLA TV
 http://181.78.105.146:2000/play/a00n/index.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TLC
 http://181.78.105.146:2000/play/a03h/index.m3u8
-#EXTINF:-1,TELERITMO
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",TELERITMO
 http://181.78.105.146:2000/play/a03u/index.m3u8
-#EXTINF:-1,VR
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",VR
 http://181.78.105.146:2000/play/a04c/index.m3u8
-#EXTINF:-1,BANDAMAX
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",BANDAMAX
 http://181.78.105.146:2000/play/a08h/index.m3u8
-#EXTINF:-1,TUDN
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",TUDN
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1,CLARO SPORTS
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",CLARO SPORTS
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1,SPN
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",SPN
 http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1,SPN2
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",SPN2
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1,SPN3
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",SPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
-#EXTINF:-1,MILENIO
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",MILENIO
 http://181.78.105.146:2000/play/a00y/index.m3u
-#EXTINF:-1,IMAGEN
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",IMAGEN
 http://181.78.105.146:2000/play/a00h/index.m3u8
-#EXTINF:-1,MVS TV
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",MVS TV
 http://181.78.105.146:2000/play/a03b/index.m3u8
-#EXTINF:-1,N+
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",N+
 https://channel07-onlymex.akamaized.net/hls/live/2036971/event01/index.m3u8
-#EXTINF:-1,FORO TV
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",FORO TV
 https://channel02-onlymex.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",CNN
 http://181.78.105.146:2000/play/a00x/index.m3u8
