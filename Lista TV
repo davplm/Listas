@@ -177,3 +177,5 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="CINE",My Time Movie Network (Mexico)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO (J)
+http://ch5.tdpsr.fyi:8080/live/jesus01/jesus01/160516.m3u8?token=QhBQV0pRFg1HVlNXAQddUwdVCAQEUFtbVVJbAAFRCwABUwgCAQ0HBFxAGRZEQEpQVQ5vWQYQAlIBVg1VDx4aRUpXSmlQXRYNR1MFBAAFGhkWF1ldBxACUxtESA1dEAISCgoJAwgbGBUAGkFRRVpZWWsHVUYLUV1BDQhNCFUeGl9XbVxTVFhaU0dYFwQVGBpcRxMSCkBnVgpZA0xEahx5HhlWXRZ6F2IZR04XVl5ASlRABhIKQAMPUAREFEZaXU1eTUBBFAMbeW9HThdRT0BdW0cKX15ACBoOBBMARhUQUUNmQF1FTUtRVggHRxYNFggXGEFdURptWwxZCF0HTVtXXkoQAhQKGxgVCA1bXUNbSmpEClQSWBAJWgNUAEZE
