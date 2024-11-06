@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,MY TV TELEVISION CLASICA
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
+#EXTINF:-1,BOREAL TELEVISION
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1,TV RETRO
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1,FRECUENCIA MUSICAL TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1,CHAVO DEL 8
+http://nxt.plus:8080/jesus01/jesus01/91926.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
+#EXTINF:-1,CHESPIRITO
+http://nxt.plus:8080/jesus01/jesus01/91927
+#EXTINF:-1,CHAPULIN COLORADO
+http://nxt.plus:8080/jesus01/jesus01/91928
