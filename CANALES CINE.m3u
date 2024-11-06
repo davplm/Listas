@@ -1,11 +1,53 @@
 #EXTM3U
-#EXTINF:0 group-title="CINE",Canal Rex
+#EXTINF:-1 group-title="CINE",Canal Rex
 http://190.102.242.130:25461/multicontenido/1234/127
-#EXTINF:0 group-title="CINE",Moni Tv
+#EXTINF:-1 group-title="CINE",Moni Tv
 http://190.102.242.130:25461/multicontenido/1234/1
-#EXTINF:0 group-title="CINE",TerrorTv
+#EXTINF:-1 group-title="CINE",TerrorTv
 http://190.102.242.130:25461/multicontenido/1234/99
-#EXTINF:0 group-title="CINE",+cine
+#EXTINF:-1 group-title="CINE",+cine
 http://190.102.242.130:25461/multicontenido/1234/31
-#EXTINF:0 group-title="CINE",AniRetro
+#EXTINF:-1 group-title="CINE",AniRetro
 http://190.102.242.130:25461/multicontenido/1234/132
+#EXTINF:-1 group-title="CINE",MEGACINE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 group-title="CINE",MY TIME MEXICO
+https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
+#EXTINF:-1 group-title="CINE",JIMANI TV
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
+#EXTINF:-1 group-title="CINE",SONY CINE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="CINE",ORBIT
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 group-title="CINE",BAYRES TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 group-title="CINE",ONDA TV
+https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
+#EXTINF:-1 group-title="CINE",COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="CINE",VILLA ALTAGRACIA TV
+https://inliveserver.com:1936/10016/10016/chunklist_w433325697.m3u8
+#EXTINF:-1 group-title="CINE",CANANGA TV
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+#EXTINF:-1 group-title="CINE",TERROR 2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
+#EXTINF:-1 group-title="CINE",MY TV TELEVISION CLASICA
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
+#EXTINF:-1 group-title="CINE",FARO VISION
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 group-title="CINE",DMJ SUR
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w2048415477.m3u8
+#EXTINF:-1 group-title="CINE",CINERAMA TELEVISION
+https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w672924500.m3u8
+#EXTINF:-1 group-title="CINE",TELECINCO
+https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1 group-title="CINE",SENSASION TV
+https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
+#EXTINF:-1 group-title="CINE",VISION TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/59
+#EXTINF:-1 group-title="CINE",NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 group-title="CINE",FREE TV
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+#EXTINF:-1 group-title="CINE",NEO TV DIGITAL
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
