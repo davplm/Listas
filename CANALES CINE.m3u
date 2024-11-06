@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0,Canal Rex
+#EXTGRP:unsorted
+http://190.102.242.130:25461/multicontenido/1234/127
+#EXTINF:0,Moni Tv
+#EXTGRP:unsorted
+http://190.102.242.130:25461/multicontenido/1234/1
+#EXTINF:0,TerrorTv
+#EXTGRP:unsorted
+http://190.102.242.130:25461/multicontenido/1234/99
+#EXTINF:0,+cine
+#EXTGRP:unsorted
+http://190.102.242.130:25461/multicontenido/1234/31
+#EXTINF:0,AniRetro
+#EXTGRP:unsorted
+http://190.102.242.130:25461/multicontenido/1234/132
