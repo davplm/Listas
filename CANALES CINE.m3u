@@ -29,8 +29,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://inliveserver.com:1936/10016/10016/chunklist_w433325697.m3u8
 #EXTINF:-1 group-title="CINE",CANANGA TV
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
-#EXTINF:-1 group-title="CINE",TERROR 2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
 #EXTINF:-1 group-title="CINE",FARO VISION
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 #EXTINF:-1 group-title="CINE",DMJ SUR
