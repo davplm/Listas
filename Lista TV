@@ -39,7 +39,7 @@ http://rtmp.one.by:1200
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 7
 http://radio.7chan.org:8000/CH7
-#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO(1)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8 
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO -1 HORA
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
@@ -47,13 +47,13 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.
 http://181.78.105.146:2000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",LAS ESTRELLAS
 http://181.78.105.146:2000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",LAS ESTRELLAS
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",LAS ESTRELLAS(1)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 5
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA 7
 http://181.78.105.146:2000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA 7
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA 7(2)
 http://181.78.105.146:2000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA 7.1
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
