@@ -5,3 +5,177 @@ http://181.78.105.146:2000/play/a08z/index.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECAUNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",ORBIT TV CANAL 10
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1540572380.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",IU TV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w509907010.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w2143131955.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",Peque Radio TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TELERED
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TELEVISION DEL ESTE
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE DRAMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",C I N E
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE ESTELAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=1b834bba-9cbe-41b1-b6a2-a1379224ef40&userId=&serverSideAds=true
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE TERROR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE FAMILIAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=9fd7ba41-dc57-42c1-91a9-47d01b017da0&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=5.2.2-a5cfd2176&clientTime=&deviceDNT=0&deviceId=ccb824c4-d871-4c4d-9d73-49d24e5029c6_72c153574c4016d7&deviceLat=20.5886&deviceLon=-100.4306&deviceMake=TCL&deviceModel=6055K&deviceType=android%2CTCL%2Cmobile&deviceVersion=6.0.1_23&includeExtendedEvents=true&marketingRegion=VE&sid=a1905b03-0a40-4213-bbd9-e57435b2af3a&userId=&profileLimit=&paln=AQzzBGQEWP9fSi171FQnq3F4Str7aKQl23WvbRxBduLYKx7f5iqHhiPq2M07m35iccYrTmb_mgvc-lVtopfLk8329Dd9fYpa3E3rtKtQ5j1UQTifhuIO8v2Q2nXpjFVEjk2vVG7kXpT1q7YyU8EjUydLlW64Nko8y9fDJWDMuo4vcwjif6g8MsN8xCe4CAHy23FT26kLAxY-10stbGofqMzVSZEibQgxLaNWi38-9EaFr1eAh0ozhkWc7pyJVS82LuFPNyqEPEaOTw4oSy_ZMQe4MjJdFa4ZVuQcCpSeMOX9QjZq2UZzvwv6sGGIpBPHExm5bYclVNCHP_eOSuG8kNTf1KKuCwSlRQvJ7GhukthRrE22QsBVc-HE9CU5DubULJ7ZTVgp68649lj4EagKMa941oeuXPV8JOh_Ta9C2m1xa9FZLKmZwQwRASlLgLLHZul4WPXRr2EPkHwr81qZOYIl9FjI46UnOUsVlJtgcpe48emTl3o_iciv365s1wV_hKtJ5S0a39uAA_eTfGNM6ObHiHn_8GJw-fEx69kkCRTBTlFZCNE0YBmtJCyrOy09tPaPwg0iULV2cTh2QuZyj9-P70qrdCY03zETHqbw18yAjAkQKsS42k-w3NC4WeP5ZfR6lCrSA3FuhT6MSe-zNxRxwRj01wjXw8Oxui-8HmPxNOTT42op4bN2yy37BnquEa42RIkUdvpAuiAkW5AF8q4CAFLlDPvB5BPNv401foat-jpcs8RetIDLIWCCil-ZR_aumTDStiEFy1DXp2yNGM479ykrHR20SWxWSU-deeRLpLUDydAZ43k9buA6dUHtv6qjvBGRudefzCNoUtKcIKDXVbyO4U0XsFK9FFeQove9GWyccaqE7z9dDaMDLbBrLuFFJr4yuzguue1wuSD6QYoU_jtNMK-oLJ8VQeTSyGWauII858DiVQnT06MFKvHcaawWt2am23xb
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",CINE ACCIÓN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",NICK CLASICO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-shift="0"  group-title="PLUTO TV",GUIA CANALES PLUTO TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=45f18e96-055d-4be2-8ebc-9b762926238f&deviceLat=20.6504&deviceLon=-100.4530&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3ba33ae2-4209-4c7e-b75c-af167312862a&userId=&serverSideAds=true
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",FIRST MUSIC CHANNEL
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 7
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO -1 HORA
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 5
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA 7
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA 7.1
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA 7.3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AMAS+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 14
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 11
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 22
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TELEMUNDO
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",CENTRAL COMEDIA
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",ONCE NIÑOS
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",DISCOVERY KIDS
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",DISNEY JR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="INFANTIL",CARTOON NETWORK
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",UNIVERSAL
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CINECANAL
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",STUDIO UNIVERSAL
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",SONY CHANNEL
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",NAT GEO
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",HISTORY
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CONOCIMIENTO",DISCOVERY
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",FILM & ARTS
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",h&h
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",E
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",HOLA TV
+http://181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",TELERITMO
+http://181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",VR
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",BANDAMAX
+http://181.78.105.146:2000/play/a08h/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",CLARO SPORTS
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",SPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",SPN2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="DEPORTES",SPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",MILENIO
+http://181.78.105.146:2000/play/a00y/index.m3u
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",IMAGEN
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",MVS TV
+http://181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",N+
+https://channel07-onlymex.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",FORO TV
+https://channel02-onlymex.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="NOTICIAS",CNN
+http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",RTQ
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CANAL VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CANELA CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CANELA CLASICOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-shift="0"  group-title="ENTRETENIMIENTO",CARACOLA (CHILE)
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CB Coto Brus (Costa Rica)
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CINERAMA (BOLIVIA)
+https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",CLOVER CHANNEL (MEXICO)
+http://160.20.165.246:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",IU IMAGEN UNIVERSAL
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",My Time Movie Network (España)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="CINE",My Time Movie Network (Mexico)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="MUSICA",FIRST MUSIC CHANNEL
+http://rtmp.one.by:1200
