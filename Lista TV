@@ -39,8 +39,6 @@ http://rtmp.one.by:1200
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",CANAL 7
 http://radio.7chan.org:8000/CH7
-#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8 
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO -1 HORA
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECA UNO
@@ -179,3 +177,5 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-shift="0"  group-title="MUSICA",FIRST MUSIC CHANNEL
 http://rtmp.one.by:1200
+#EXTINF:-1 tvg-shift="0"  group-title="LOCALES",AZTECAUNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8 
