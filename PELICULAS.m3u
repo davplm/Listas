@@ -222,3 +222,6 @@ http://38.86.228.203:12399/vod/12E201D2FA9845B087695B38B0D6D50F_media.mp4
 http://208.115.229.211:19744/vod/0549A48AE2D14F81A81D8C865B708C9D_media.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8W0mMrmaVdSoLz5LnX61gJOXfEb.jpg", El Sorprendente Hombre AraÃ±a 2 
 http://69.162.109.91:16070/vod/EE4AE621B4924189B51669735CF9C04B_media.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/swjygVNvJ84ztpgfFX9gRr2MPBZ.jpg", El Sorprendente Hombre Araña
+http://64.31.35.132:30114/vod/402A48F951204DD5938AFF3921977C88_media.mp4
