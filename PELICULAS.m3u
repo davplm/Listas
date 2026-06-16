@@ -293,3 +293,5 @@ http://107.174.3.106:12399/vod/EC160EACC4274FB6A03F01ED7F9E08F5_media.mp4
 http://38.86.228.250:12399/vod/BA6446F177114D01A7406FA3E057ABA0_media.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zufHIdp8szvgkt8VCnJEF2fo1tN.jpg", La Era de Hielo 3
 http://69.162.109.91:16070/vod/52744AB6A6824E4DBF7642A27A394FC6_media.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qYiZOCXkOYtYfolUUdJKoZ8xPsL.jpg", La Era de Hielo 4
+http://69.162.97.115:32888/vod/700A287BDC354DF4A7B50F3987641BFE_media.mp4
