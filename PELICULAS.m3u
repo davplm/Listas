@@ -289,3 +289,5 @@ http://208.115.229.211:19744/vod/746D34697A2B44FDB344573F5375279B_media.mp4
 http://208.115.229.211:19744/vod/746D34697A2B44FDB344573F5375279B_media.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vgxlqI40AUXmpBzcwlLsYZI5EcR.jpg", La Era de Hielo: Choque de Mundos
 http://107.174.3.106:12399/vod/EC160EACC4274FB6A03F01ED7F9E08F5_media.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q3D7vBGrJVrVrZSJjVQN8lN0e6c.jpg", La Era de Hielo 2
+http://38.86.228.250:12399/vod/BA6446F177114D01A7406FA3E057ABA0_media.mp4
