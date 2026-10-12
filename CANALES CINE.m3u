@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="CINE",MY TIME MEXICO
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmE1nq4fH87VUILkZz35QYZ08VP4ll6a0AxyFhA-LY4L9hOaHQeMdm9QcK&s=10",MY TIME MEXICO
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
-#EXTINF:-1 group-title="CINE",JIMANI TV
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYngKJ-0kD3ZnemC_EqQRvo93zSeWEmDD0QSYAhLgHF1nnzuAOt3syewq-&s=10",JIMANI TV
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
 #EXTINF:-1 group-title="CINE",ORBIT
 https://edge.essastream.com/orbittv/tracks-v1a1/mono.m3u8
