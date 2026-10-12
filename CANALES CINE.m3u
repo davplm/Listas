@@ -39,7 +39,7 @@ https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://logoeps.com/wp-content/uploads/2011/05/disney-channel-logo-vector.png",DISNEY CHANNEL MEXICO
 http://181.78.8.199:8000/play/a0dn/index.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.seeklogo.com/logo-png/31/2/disney-channel-logo-png_seeklogo-314500.png",DISNEY CHANNEL LATINO AMERICA NORTH
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.shutterstock.com/editorial/image-editorial/M2TdA80fN1TdMe08MDk2ODI=/large-disney-channel-logo-displayed-during-d23-440nw-10370712ah.jpg",DISNEY CHANNEL LATINO AMERICA NORTH
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://images.seeklogo.com/logo-png/31/2/disney-channel-logo-png_seeklogo-314500.png",DISNEY CHANNEL
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
